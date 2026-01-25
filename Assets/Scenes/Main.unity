@@ -1450,28 +1450,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27016478720458752
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27016478720458752
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 66247388}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 66247388}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -1898,28 +1906,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27021389164118016
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27021389164118016
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 90488334}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 90488334}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -3394,28 +3410,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 4709837897728
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 4709837897728
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 190031277}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 190031277}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -5462,28 +5486,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27014336743931904
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27014336743931904
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 299988801}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 299988801}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -9316,28 +9348,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 26999379222528000
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 26999379222528000
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 460482964}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 460482964}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -9841,28 +9881,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5964740100096
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5964740100096
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 481693072}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 481693072}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -10161,28 +10209,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27016080341270528
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27016080341270528
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 482868080}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 482868080}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -11463,28 +11519,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27020450982199296
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27020450982199296
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 582458353}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 582458353}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -11968,28 +12032,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 6686902779904
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 6686902779904
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 621316150}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 621316150}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -13173,28 +13245,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 7872364085248
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 7872364085248
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 675939511}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 675939511}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -14181,28 +14261,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 6288506814464
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 6288506814464
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 723952729}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 723952729}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -14530,28 +14618,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 4913781735424
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 4913781735424
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 739540611}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 739540611}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -18655,28 +18751,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5309552066560
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5309552066560
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 867427832}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 867427832}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -19348,28 +19452,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 26999379222528000
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 26999379222528000
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 880173107}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 880173107}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -20506,28 +20618,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 6978952167424
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 6978952167424
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 914923701}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 914923701}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -22076,28 +22196,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 8806259425280
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 8806259425280
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 993312098}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 993312098}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -25598,28 +25726,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27008110677131264
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27008110677131264
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1159022332}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1159022332}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -25985,28 +26121,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27013730792833024
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27013730792833024
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1181584578}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1181584578}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -26287,28 +26431,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5309552066560
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5309552066560
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1196328178}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1196328178}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -26710,28 +26862,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5235044450304
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5235044450304
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1203104325}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1203104325}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -29083,28 +29243,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 9427557482496
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 9427557482496
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1276876736}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1276876736}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -31883,28 +32051,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27012730992394240
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27012730992394240
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1367999363}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1367999363}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -33752,28 +33928,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5380284809216
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5380284809216
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1444567836}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1444567836}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -34809,28 +34993,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 8350682513408
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 8350682513408
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1517075681}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1517075681}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -36090,28 +36282,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27015455079596032
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27015455079596032
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1613452716}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1613452716}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -36241,28 +36441,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 9491252183040
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 9491252183040
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1622577736}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1622577736}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -36918,28 +37126,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 5430125723648
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 5430125723648
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1657713128}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1657713128}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -38579,28 +38795,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27008222438555648
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27008222438555648
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1730091614}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1730091614}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -39873,28 +40097,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 26999379222528000
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 26999379222528000
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1769096970}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1769096970}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -41151,28 +41383,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27017161733505024
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27017161733505024
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1816529456}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1816529456}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -41327,28 +41567,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 4913781735424
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 4913781735424
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1818692824}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1818692824}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -46893,28 +47141,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27015318668247040
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27015318668247040
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1977631440}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1977631440}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -47459,28 +47715,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 6156986023936
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 6156986023936
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1999502016}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 1999502016}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -48497,28 +48761,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 6536948023296
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 6536948023296
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2034654245}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 2034654245}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -50465,28 +50737,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 27008958438244352
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 27008958438244352
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2056639149}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 2056639149}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []
@@ -51042,28 +51322,36 @@ MonoBehaviour:
   m_StringReference:
     m_TableReference:
       m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
     m_TableEntryReference:
       m_KeyId: 9721599164416
       m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_FallbackState: 0
     m_WaitForCompletion: 0
+    m_LocaleOverride: {fileID: 0}
+    m_CurrentTable:
+      m_TableCollectionName: GUID:bdf8ac680d79c2a8abb5d8f837b91ce5
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 1
+    m_CurrentTableEntry:
+      m_KeyId: 9721599164416
+      m_Key: 
+      m_Valid: 0
+      <ReferenceType>k__BackingField: 2
     m_LocalVariables: []
+    m_CurrentStringChangedValue: 
+    m_WaitingForVariablesEndUpdate: 0
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2079810822}
-        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
-        m_MethodName: set_text
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
+      - {m_Target: {fileID: 2079810822}, m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro, m_MethodName: set_text, m_Mode: 0, m_Arguments: {m_ObjectArgument: {fileID: 0},
+          m_ObjectArgumentAssemblyTypeName: , m_IntArgument: 0, m_FloatArgument: 0,
+          m_StringArgument: , m_BoolArgument: 0}, m_CallState: 1}
+    m_CallsDirty: 1
   references:
     version: 2
     RefIds: []

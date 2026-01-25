@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.crowdin.unity-plugin": "0.9.0",
     "com.netpyoung.webp": "file:LocalPackages/unity.webp",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "2.7.1",
